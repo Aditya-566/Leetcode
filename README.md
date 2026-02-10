@@ -30,8 +30,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/Aditya-566/Leetcode/tree/master/0242-valid-anagram) |
+| [0680-valid-palindrome-ii](https://github.com/Aditya-566/Leetcode/tree/master/0680-valid-palindrome-ii) |
 ## Sorting
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/Aditya-566/Leetcode/tree/master/0242-valid-anagram) |
+## Two Pointers
+|  |
+| ------- |
+| [0680-valid-palindrome-ii](https://github.com/Aditya-566/Leetcode/tree/master/0680-valid-palindrome-ii) |
+## Greedy
+|  |
+| ------- |
+| [0680-valid-palindrome-ii](https://github.com/Aditya-566/Leetcode/tree/master/0680-valid-palindrome-ii) |
 <!---LeetCode Topics End-->
