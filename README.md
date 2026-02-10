@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/Aditya-566/Leetcode/tree/master/0054-spiral-matrix) |
 | [0162-find-peak-element](https://github.com/Aditya-566/Leetcode/tree/master/0162-find-peak-element) |
 | [0704-binary-search](https://github.com/Aditya-566/Leetcode/tree/master/0704-binary-search) |
+| [1470-shuffle-the-array](https://github.com/Aditya-566/Leetcode/tree/master/1470-shuffle-the-array) |
 ## Binary Search
 |  |
 | ------- |
