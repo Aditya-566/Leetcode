@@ -12,9 +12,7 @@ public:
             else{
                 left=mid+1;
             }
-            // else{
-            //     left=right;
-            // }
+            
         }
         return left;
     }
