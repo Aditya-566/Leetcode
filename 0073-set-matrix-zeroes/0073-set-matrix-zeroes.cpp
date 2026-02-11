@@ -7,7 +7,6 @@ public:
         vector<bool> row(n, false);
         vector<bool> col(m, false);
 
-        // Step 1: mark rows and columns
         for (int i = 0; i < n; i++) {
             for (int j = 0; j < m; j++) {
                 if (matrix[i][j] == 0) {
@@ -17,7 +16,6 @@ public:
             }
         }
 
-        // Step 2: set zeroes
         for (int i = 0; i < n; i++) {
             for (int j = 0; j < m; j++) {
                 if (row[i] || col[j]) {
