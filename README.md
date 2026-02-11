@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/Aditya-566/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0162-find-peak-element](https://github.com/Aditya-566/Leetcode/tree/master/0162-find-peak-element) |
 | [0503-next-greater-element-ii](https://github.com/Aditya-566/Leetcode/tree/master/0503-next-greater-element-ii) |
+| [0540-single-element-in-a-sorted-array](https://github.com/Aditya-566/Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Aditya-566/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0561-array-partition](https://github.com/Aditya-566/Leetcode/tree/master/0561-array-partition) |
 | [0704-binary-search](https://github.com/Aditya-566/Leetcode/tree/master/0704-binary-search) |
@@ -22,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/Aditya-566/Leetcode/tree/master/0162-find-peak-element) |
 | [0278-first-bad-version](https://github.com/Aditya-566/Leetcode/tree/master/0278-first-bad-version) |
 | [0374-guess-number-higher-or-lower](https://github.com/Aditya-566/Leetcode/tree/master/0374-guess-number-higher-or-lower) |
+| [0540-single-element-in-a-sorted-array](https://github.com/Aditya-566/Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/Aditya-566/Leetcode/tree/master/0704-binary-search) |
 ## Interactive
 |  |
