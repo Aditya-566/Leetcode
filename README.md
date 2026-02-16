@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/Aditya-566/Leetcode/tree/master/0048-rotate-image) |
+| [0050-powx-n](https://github.com/Aditya-566/Leetcode/tree/master/0050-powx-n) |
 | [0415-add-strings](https://github.com/Aditya-566/Leetcode/tree/master/0415-add-strings) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Aditya-566/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 ## Simulation
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/Aditya-566/Leetcode/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/Aditya-566/Leetcode/tree/master/0206-reverse-linked-list) |
 ## Prefix Sum
 |  |
