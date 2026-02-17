@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Aditya-566/Leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Aditya-566/Leetcode/tree/master/0035-search-insert-position) |
 | [0162-find-peak-element](https://github.com/Aditya-566/Leetcode/tree/master/0162-find-peak-element) |
+| [0222-count-complete-tree-nodes](https://github.com/Aditya-566/Leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0278-first-bad-version](https://github.com/Aditya-566/Leetcode/tree/master/0278-first-bad-version) |
 | [0374-guess-number-higher-or-lower](https://github.com/Aditya-566/Leetcode/tree/master/0374-guess-number-higher-or-lower) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Aditya-566/Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
@@ -130,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/Aditya-566/Leetcode/tree/master/0100-same-tree) |
+| [0222-count-complete-tree-nodes](https://github.com/Aditya-566/Leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0226-invert-binary-tree](https://github.com/Aditya-566/Leetcode/tree/master/0226-invert-binary-tree) |
 ## Depth-First Search
 |  |
@@ -145,5 +147,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/Aditya-566/Leetcode/tree/master/0100-same-tree) |
+| [0222-count-complete-tree-nodes](https://github.com/Aditya-566/Leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0226-invert-binary-tree](https://github.com/Aditya-566/Leetcode/tree/master/0226-invert-binary-tree) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0222-count-complete-tree-nodes](https://github.com/Aditya-566/Leetcode/tree/master/0222-count-complete-tree-nodes) |
 <!---LeetCode Topics End-->
