@@ -5,7 +5,8 @@ public:
         vector<int> res;
         int i=0;
         while(i<n){
-                int ans=(nums[i]*nums[i] );
+        if(i==n){return {};}
+        int ans=(nums[i]*nums[i] );
         res.push_back(ans);
         i++;
 
