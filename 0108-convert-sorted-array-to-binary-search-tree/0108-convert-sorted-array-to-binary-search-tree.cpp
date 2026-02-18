@@ -20,6 +20,8 @@ TreeNode* rec(vector<int>& nums,int start,int end){
     return node;
 }
     TreeNode* sortedArrayToBST(vector<int>& nums) {
-        return rec(nums,0,nums.size()-1);
+        
+        if (nums.empty()) return nullptr;
+        return rec(nums, 0, nums.size() - 1);
     }
 };
