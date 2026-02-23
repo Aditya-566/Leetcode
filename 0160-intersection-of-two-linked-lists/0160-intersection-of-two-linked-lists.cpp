@@ -11,6 +11,6 @@ public:
             p2 = (p2 == NULL) ? headA : p2->next;
         }
 
-        return p2;  // Either intersection node or NULL
+        return p1;  // Either intersection node or NULL
     }
 };
