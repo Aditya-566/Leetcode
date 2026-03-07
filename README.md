@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Aditya-566/Leetcode/tree/master/0189-rotate-array) |
 | [0200-number-of-islands](https://github.com/Aditya-566/Leetcode/tree/master/0200-number-of-islands) |
 | [0414-third-maximum-number](https://github.com/Aditya-566/Leetcode/tree/master/0414-third-maximum-number) |
+| [0485-max-consecutive-ones](https://github.com/Aditya-566/Leetcode/tree/master/0485-max-consecutive-ones) |
 | [0503-next-greater-element-ii](https://github.com/Aditya-566/Leetcode/tree/master/0503-next-greater-element-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Aditya-566/Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Aditya-566/Leetcode/tree/master/0560-subarray-sum-equals-k) |
