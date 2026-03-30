@@ -1,7 +1,7 @@
 class Solution {
 public:
     bool checkStrings(string s1, string s2) {
-        // if(s1.size()!=s2.size())return false;
+        if(s1.size()!=s2.size())return false;
         vector<int> even1(26,0);
         vector<int> even2(26,0);
         vector<int> odd1(26,0);
