@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/Aditya-566/Leetcode/tree/master/0202-happy-number) |
 | [0242-valid-anagram](https://github.com/Aditya-566/Leetcode/tree/master/0242-valid-anagram) |
 | [0560-subarray-sum-equals-k](https://github.com/Aditya-566/Leetcode/tree/master/0560-subarray-sum-equals-k) |
+| [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Aditya-566/Leetcode/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 ## String
 |  |
 | ------- |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Aditya-566/Leetcode/tree/master/0242-valid-anagram) |
 | [0415-add-strings](https://github.com/Aditya-566/Leetcode/tree/master/0415-add-strings) |
 | [0680-valid-palindrome-ii](https://github.com/Aditya-566/Leetcode/tree/master/0680-valid-palindrome-ii) |
+| [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Aditya-566/Leetcode/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 ## Sorting
 |  |
 | ------- |
@@ -83,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0561-array-partition](https://github.com/Aditya-566/Leetcode/tree/master/0561-array-partition) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Aditya-566/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0977-squares-of-a-sorted-array](https://github.com/Aditya-566/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
+| [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Aditya-566/Leetcode/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 ## Two Pointers
 |  |
 | ------- |
