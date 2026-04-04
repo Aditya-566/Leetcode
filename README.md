@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/Aditya-566/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Aditya-566/Leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Aditya-566/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0128-longest-consecutive-sequence](https://github.com/Aditya-566/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0152-maximum-product-subarray](https://github.com/Aditya-566/Leetcode/tree/master/0152-maximum-product-subarray) |
 | [0162-find-peak-element](https://github.com/Aditya-566/Leetcode/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Aditya-566/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Aditya-566/Leetcode/tree/master/0001-two-sum) |
 | [0073-set-matrix-zeroes](https://github.com/Aditya-566/Leetcode/tree/master/0073-set-matrix-zeroes) |
+| [0128-longest-consecutive-sequence](https://github.com/Aditya-566/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0142-linked-list-cycle-ii](https://github.com/Aditya-566/Leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Aditya-566/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0202-happy-number](https://github.com/Aditya-566/Leetcode/tree/master/0202-happy-number) |
@@ -258,5 +260,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union-Find
 |  |
 | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/Aditya-566/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0200-number-of-islands](https://github.com/Aditya-566/Leetcode/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
