@@ -151,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/Aditya-566/Leetcode/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/Aditya-566/Leetcode/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/Aditya-566/Leetcode/tree/master/0050-powx-n) |
+| [0070-climbing-stairs](https://github.com/Aditya-566/Leetcode/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/Aditya-566/Leetcode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Aditya-566/Leetcode/tree/master/0202-happy-number) |
 | [0371-sum-of-two-integers](https://github.com/Aditya-566/Leetcode/tree/master/0371-sum-of-two-integers) |
@@ -224,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Aditya-566/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0053-maximum-subarray](https://github.com/Aditya-566/Leetcode/tree/master/0053-maximum-subarray) |
+| [0070-climbing-stairs](https://github.com/Aditya-566/Leetcode/tree/master/0070-climbing-stairs) |
 | [0152-maximum-product-subarray](https://github.com/Aditya-566/Leetcode/tree/master/0152-maximum-product-subarray) |
 | [0877-stone-game](https://github.com/Aditya-566/Leetcode/tree/master/0877-stone-game) |
 ## Tree
@@ -316,4 +318,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Aditya-566/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/Aditya-566/Leetcode/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
