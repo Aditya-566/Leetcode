@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1480-running-sum-of-1d-array](https://github.com/Aditya-566/Leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Aditya-566/Leetcode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/Aditya-566/Leetcode/tree/master/1822-sign-of-the-product-of-an-array) |
+| [2615-sum-of-distances](https://github.com/Aditya-566/Leetcode/tree/master/2615-sum-of-distances) |
 ## Binary Search
 |  |
 | ------- |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/Aditya-566/Leetcode/tree/master/0202-happy-number) |
 | [0242-valid-anagram](https://github.com/Aditya-566/Leetcode/tree/master/0242-valid-anagram) |
 | [0560-subarray-sum-equals-k](https://github.com/Aditya-566/Leetcode/tree/master/0560-subarray-sum-equals-k) |
+| [2615-sum-of-distances](https://github.com/Aditya-566/Leetcode/tree/master/2615-sum-of-distances) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Aditya-566/Leetcode/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 ## String
 |  |
@@ -212,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/Aditya-566/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [1480-running-sum-of-1d-array](https://github.com/Aditya-566/Leetcode/tree/master/1480-running-sum-of-1d-array) |
+| [2615-sum-of-distances](https://github.com/Aditya-566/Leetcode/tree/master/2615-sum-of-distances) |
 ## Design
 |  |
 | ------- |
