@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/Aditya-566/Leetcode/tree/master/0704-binary-search) |
 | [0877-stone-game](https://github.com/Aditya-566/Leetcode/tree/master/0877-stone-game) |
 | [0977-squares-of-a-sorted-array](https://github.com/Aditya-566/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
+| [1004-max-consecutive-ones-iii](https://github.com/Aditya-566/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1037-valid-boomerang](https://github.com/Aditya-566/Leetcode/tree/master/1037-valid-boomerang) |
 | [1470-shuffle-the-array](https://github.com/Aditya-566/Leetcode/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/Aditya-566/Leetcode/tree/master/1480-running-sum-of-1d-array) |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0374-guess-number-higher-or-lower](https://github.com/Aditya-566/Leetcode/tree/master/0374-guess-number-higher-or-lower) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Aditya-566/Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/Aditya-566/Leetcode/tree/master/0704-binary-search) |
+| [1004-max-consecutive-ones-iii](https://github.com/Aditya-566/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
 ## Interactive
 |  |
 | ------- |
@@ -218,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Aditya-566/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/Aditya-566/Leetcode/tree/master/0560-subarray-sum-equals-k) |
+| [1004-max-consecutive-ones-iii](https://github.com/Aditya-566/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1480-running-sum-of-1d-array](https://github.com/Aditya-566/Leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [2615-sum-of-distances](https://github.com/Aditya-566/Leetcode/tree/master/2615-sum-of-distances) |
 ## Design
@@ -331,6 +334,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Aditya-566/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/Aditya-566/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
+| [1004-max-consecutive-ones-iii](https://github.com/Aditya-566/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
 ## Memoization
 |  |
 | ------- |
