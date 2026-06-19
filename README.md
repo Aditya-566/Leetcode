@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1037-valid-boomerang](https://github.com/Aditya-566/Leetcode/tree/master/1037-valid-boomerang) |
 | [1470-shuffle-the-array](https://github.com/Aditya-566/Leetcode/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/Aditya-566/Leetcode/tree/master/1480-running-sum-of-1d-array) |
+| [1732-find-the-highest-altitude](https://github.com/Aditya-566/Leetcode/tree/master/1732-find-the-highest-altitude) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Aditya-566/Leetcode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/Aditya-566/Leetcode/tree/master/1822-sign-of-the-product-of-an-array) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Aditya-566/Leetcode/tree/master/2161-partition-array-according-to-given-pivot) |
@@ -241,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/Aditya-566/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/Aditya-566/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1480-running-sum-of-1d-array](https://github.com/Aditya-566/Leetcode/tree/master/1480-running-sum-of-1d-array) |
+| [1732-find-the-highest-altitude](https://github.com/Aditya-566/Leetcode/tree/master/1732-find-the-highest-altitude) |
 | [2615-sum-of-distances](https://github.com/Aditya-566/Leetcode/tree/master/2615-sum-of-distances) |
 ## Design
 |  |
