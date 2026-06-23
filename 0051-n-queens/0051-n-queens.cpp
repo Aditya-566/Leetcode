@@ -15,10 +15,7 @@ bool isvalid(vector<string>& board,int row,int col){
     }
    return true;
 }
-void nqueen(int row,
-            vector<string>& board,
-            int n,
-            vector<vector<string>>& ans){
+void nqueen(int row,vector<string>& board,int n,vector<vector<string>>& ans){
     if(row==n){
         ans.push_back(board);
         return;
