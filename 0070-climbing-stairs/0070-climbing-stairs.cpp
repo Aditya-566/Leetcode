@@ -1,8 +1,7 @@
 class Solution {
 public:
     int climbStairs(int n) {
-    //   if(n<0) return 0;
-    //   if(n==0) return 1;
+    //   if(n<=2)return n;
     //   int ways2=climbStairs(n-2);
     //   int ways1=climbStairs(n-1);
     //   return ways2+ways1;
