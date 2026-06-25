@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/Aditya-566/Leetcode/tree/master/0035-search-insert-position) |
 | [0036-valid-sudoku](https://github.com/Aditya-566/Leetcode/tree/master/0036-valid-sudoku) |
 | [0048-rotate-image](https://github.com/Aditya-566/Leetcode/tree/master/0048-rotate-image) |
+| [0049-group-anagrams](https://github.com/Aditya-566/Leetcode/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/Aditya-566/Leetcode/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/Aditya-566/Leetcode/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/Aditya-566/Leetcode/tree/master/0054-spiral-matrix) |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/Aditya-566/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/Aditya-566/Leetcode/tree/master/0013-roman-to-integer) |
 | [0036-valid-sudoku](https://github.com/Aditya-566/Leetcode/tree/master/0036-valid-sudoku) |
+| [0049-group-anagrams](https://github.com/Aditya-566/Leetcode/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/Aditya-566/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/Aditya-566/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0142-linked-list-cycle-ii](https://github.com/Aditya-566/Leetcode/tree/master/0142-linked-list-cycle-ii) |
@@ -102,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/Aditya-566/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/Aditya-566/Leetcode/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Aditya-566/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0049-group-anagrams](https://github.com/Aditya-566/Leetcode/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/Aditya-566/Leetcode/tree/master/0058-length-of-last-word) |
 | [0151-reverse-words-in-a-string](https://github.com/Aditya-566/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0165-compare-version-numbers](https://github.com/Aditya-566/Leetcode/tree/master/0165-compare-version-numbers) |
@@ -123,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/Aditya-566/Leetcode/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/Aditya-566/Leetcode/tree/master/0016-3sum-closest) |
+| [0049-group-anagrams](https://github.com/Aditya-566/Leetcode/tree/master/0049-group-anagrams) |
 | [0088-merge-sorted-array](https://github.com/Aditya-566/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0242-valid-anagram](https://github.com/Aditya-566/Leetcode/tree/master/0242-valid-anagram) |
 | [0389-find-the-difference](https://github.com/Aditya-566/Leetcode/tree/master/0389-find-the-difference) |
