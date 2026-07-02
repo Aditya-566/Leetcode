@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/Aditya-566/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/Aditya-566/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1037-valid-boomerang](https://github.com/Aditya-566/Leetcode/tree/master/1037-valid-boomerang) |
+| [1160-find-words-that-can-be-formed-by-characters](https://github.com/Aditya-566/Leetcode/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1470-shuffle-the-array](https://github.com/Aditya-566/Leetcode/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/Aditya-566/Leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [1732-find-the-highest-altitude](https://github.com/Aditya-566/Leetcode/tree/master/1732-find-the-highest-altitude) |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/Aditya-566/Leetcode/tree/master/0389-find-the-difference) |
 | [0409-longest-palindrome](https://github.com/Aditya-566/Leetcode/tree/master/0409-longest-palindrome) |
 | [0560-subarray-sum-equals-k](https://github.com/Aditya-566/Leetcode/tree/master/0560-subarray-sum-equals-k) |
+| [1160-find-words-that-can-be-formed-by-characters](https://github.com/Aditya-566/Leetcode/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [2615-sum-of-distances](https://github.com/Aditya-566/Leetcode/tree/master/2615-sum-of-distances) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Aditya-566/Leetcode/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 ## String
@@ -119,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0409-longest-palindrome](https://github.com/Aditya-566/Leetcode/tree/master/0409-longest-palindrome) |
 | [0415-add-strings](https://github.com/Aditya-566/Leetcode/tree/master/0415-add-strings) |
 | [0680-valid-palindrome-ii](https://github.com/Aditya-566/Leetcode/tree/master/0680-valid-palindrome-ii) |
+| [1160-find-words-that-can-be-formed-by-characters](https://github.com/Aditya-566/Leetcode/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Aditya-566/Leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/Aditya-566/Leetcode/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Aditya-566/Leetcode/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
@@ -223,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0383-ransom-note](https://github.com/Aditya-566/Leetcode/tree/master/0383-ransom-note) |
 | [0561-array-partition](https://github.com/Aditya-566/Leetcode/tree/master/0561-array-partition) |
+| [1160-find-words-that-can-be-formed-by-characters](https://github.com/Aditya-566/Leetcode/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1833-maximum-ice-cream-bars](https://github.com/Aditya-566/Leetcode/tree/master/1833-maximum-ice-cream-bars) |
 ## Stack
 |  |
