@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Aditya-566/Leetcode/tree/master/0189-rotate-array) |
 | [0200-number-of-islands](https://github.com/Aditya-566/Leetcode/tree/master/0200-number-of-islands) |
 | [0209-minimum-size-subarray-sum](https://github.com/Aditya-566/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
+| [0283-move-zeroes](https://github.com/Aditya-566/Leetcode/tree/master/0283-move-zeroes) |
 | [0414-third-maximum-number](https://github.com/Aditya-566/Leetcode/tree/master/0414-third-maximum-number) |
 | [0485-max-consecutive-ones](https://github.com/Aditya-566/Leetcode/tree/master/0485-max-consecutive-ones) |
 | [0503-next-greater-element-ii](https://github.com/Aditya-566/Leetcode/tree/master/0503-next-greater-element-ii) |
@@ -172,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Aditya-566/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/Aditya-566/Leetcode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Aditya-566/Leetcode/tree/master/0202-happy-number) |
+| [0283-move-zeroes](https://github.com/Aditya-566/Leetcode/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/Aditya-566/Leetcode/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Aditya-566/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0680-valid-palindrome-ii](https://github.com/Aditya-566/Leetcode/tree/master/0680-valid-palindrome-ii) |
