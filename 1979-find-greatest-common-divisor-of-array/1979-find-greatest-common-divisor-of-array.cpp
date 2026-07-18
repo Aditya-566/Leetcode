@@ -1,15 +1,17 @@
 class Solution {
 public:
     int findGCD(vector<int>& nums) {
-        sort(nums.begin(), nums.end());
-        int mn = nums[0];
-        int mx = nums[nums.size()-1];
-        while (mn >= 1) {
-            if (mx % mn == 0 && nums[0] % mn == 0)
-                return mn;
-                else{
-            mn--;}
-        }
-        return 1;
+        sort(nums.begin(),nums.end());
+        int n=nums.size();
+        int f=nums[0];
+        while(f>1){
+            if(nums[n-1]%f==0 && nums[0]%f==0){
+                return f;
+            }
+            else{
+                f--
+                ;
+            }
+        }return 1;
     }
 };
