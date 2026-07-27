@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1037-valid-boomerang](https://github.com/Aditya-566/Leetcode/tree/master/1037-valid-boomerang) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/Aditya-566/Leetcode/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1288-remove-covered-intervals](https://github.com/Aditya-566/Leetcode/tree/master/1288-remove-covered-intervals) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Aditya-566/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1470-shuffle-the-array](https://github.com/Aditya-566/Leetcode/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/Aditya-566/Leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [1732-find-the-highest-altitude](https://github.com/Aditya-566/Leetcode/tree/master/1732-find-the-highest-altitude) |
@@ -150,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/Aditya-566/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0977-squares-of-a-sorted-array](https://github.com/Aditya-566/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1288-remove-covered-intervals](https://github.com/Aditya-566/Leetcode/tree/master/1288-remove-covered-intervals) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Aditya-566/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1833-maximum-ice-cream-bars](https://github.com/Aditya-566/Leetcode/tree/master/1833-maximum-ice-cream-bars) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Aditya-566/Leetcode/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 ## Two Pointers
@@ -447,4 +449,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Aditya-566/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Aditya-566/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 <!---LeetCode Topics End-->
