@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Aditya-566/Leetcode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/Aditya-566/Leetcode/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1833-maximum-ice-cream-bars](https://github.com/Aditya-566/Leetcode/tree/master/1833-maximum-ice-cream-bars) |
+| [1920-build-array-from-permutation](https://github.com/Aditya-566/Leetcode/tree/master/1920-build-array-from-permutation) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Aditya-566/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Aditya-566/Leetcode/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2615-sum-of-distances](https://github.com/Aditya-566/Leetcode/tree/master/2615-sum-of-distances) |
@@ -223,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/Aditya-566/Leetcode/tree/master/0054-spiral-matrix) |
 | [0415-add-strings](https://github.com/Aditya-566/Leetcode/tree/master/0415-add-strings) |
+| [1920-build-array-from-permutation](https://github.com/Aditya-566/Leetcode/tree/master/1920-build-array-from-permutation) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Aditya-566/Leetcode/tree/master/2161-partition-array-according-to-given-pivot) |
 | [3612-process-string-with-special-operations-i](https://github.com/Aditya-566/Leetcode/tree/master/3612-process-string-with-special-operations-i) |
 | [3614-process-string-with-special-operations-ii](https://github.com/Aditya-566/Leetcode/tree/master/3614-process-string-with-special-operations-ii) |
