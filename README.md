@@ -217,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0319-bulb-switcher](https://github.com/Aditya-566/Leetcode/tree/master/0319-bulb-switcher) |
 | [0371-sum-of-two-integers](https://github.com/Aditya-566/Leetcode/tree/master/0371-sum-of-two-integers) |
 | [0415-add-strings](https://github.com/Aditya-566/Leetcode/tree/master/0415-add-strings) |
+| [0507-perfect-number](https://github.com/Aditya-566/Leetcode/tree/master/0507-perfect-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Aditya-566/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/Aditya-566/Leetcode/tree/master/0877-stone-game) |
 | [1037-valid-boomerang](https://github.com/Aditya-566/Leetcode/tree/master/1037-valid-boomerang) |
