@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Aditya-566/Leetcode/tree/master/0189-rotate-array) |
 | [0200-number-of-islands](https://github.com/Aditya-566/Leetcode/tree/master/0200-number-of-islands) |
 | [0209-minimum-size-subarray-sum](https://github.com/Aditya-566/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
+| [0268-missing-number](https://github.com/Aditya-566/Leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Aditya-566/Leetcode/tree/master/0283-move-zeroes) |
 | [0414-third-maximum-number](https://github.com/Aditya-566/Leetcode/tree/master/0414-third-maximum-number) |
 | [0485-max-consecutive-ones](https://github.com/Aditya-566/Leetcode/tree/master/0485-max-consecutive-ones) |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Aditya-566/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/Aditya-566/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0222-count-complete-tree-nodes](https://github.com/Aditya-566/Leetcode/tree/master/0222-count-complete-tree-nodes) |
+| [0268-missing-number](https://github.com/Aditya-566/Leetcode/tree/master/0268-missing-number) |
 | [0278-first-bad-version](https://github.com/Aditya-566/Leetcode/tree/master/0278-first-bad-version) |
 | [0374-guess-number-higher-or-lower](https://github.com/Aditya-566/Leetcode/tree/master/0374-guess-number-higher-or-lower) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Aditya-566/Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
@@ -106,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/Aditya-566/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0202-happy-number](https://github.com/Aditya-566/Leetcode/tree/master/0202-happy-number) |
 | [0242-valid-anagram](https://github.com/Aditya-566/Leetcode/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/Aditya-566/Leetcode/tree/master/0268-missing-number) |
 | [0383-ransom-note](https://github.com/Aditya-566/Leetcode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Aditya-566/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/Aditya-566/Leetcode/tree/master/0389-find-the-difference) |
@@ -153,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Aditya-566/Leetcode/tree/master/0049-group-anagrams) |
 | [0088-merge-sorted-array](https://github.com/Aditya-566/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0242-valid-anagram](https://github.com/Aditya-566/Leetcode/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/Aditya-566/Leetcode/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/Aditya-566/Leetcode/tree/master/0389-find-the-difference) |
 | [0414-third-maximum-number](https://github.com/Aditya-566/Leetcode/tree/master/0414-third-maximum-number) |
 | [0561-array-partition](https://github.com/Aditya-566/Leetcode/tree/master/0561-array-partition) |
@@ -218,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/Aditya-566/Leetcode/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/Aditya-566/Leetcode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Aditya-566/Leetcode/tree/master/0202-happy-number) |
+| [0268-missing-number](https://github.com/Aditya-566/Leetcode/tree/master/0268-missing-number) |
 | [0319-bulb-switcher](https://github.com/Aditya-566/Leetcode/tree/master/0319-bulb-switcher) |
 | [0371-sum-of-two-integers](https://github.com/Aditya-566/Leetcode/tree/master/0371-sum-of-two-integers) |
 | [0415-add-strings](https://github.com/Aditya-566/Leetcode/tree/master/0415-add-strings) |
@@ -401,6 +406,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0078-subsets](https://github.com/Aditya-566/Leetcode/tree/master/0078-subsets) |
 | [0222-count-complete-tree-nodes](https://github.com/Aditya-566/Leetcode/tree/master/0222-count-complete-tree-nodes) |
+| [0268-missing-number](https://github.com/Aditya-566/Leetcode/tree/master/0268-missing-number) |
 | [0371-sum-of-two-integers](https://github.com/Aditya-566/Leetcode/tree/master/0371-sum-of-two-integers) |
 | [0389-find-the-difference](https://github.com/Aditya-566/Leetcode/tree/master/0389-find-the-difference) |
 ## Game Theory
