@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Aditya-566/Leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Aditya-566/Leetcode/tree/master/0283-move-zeroes) |
 | [0414-third-maximum-number](https://github.com/Aditya-566/Leetcode/tree/master/0414-third-maximum-number) |
+| [0475-heaters](https://github.com/Aditya-566/Leetcode/tree/master/0475-heaters) |
 | [0485-max-consecutive-ones](https://github.com/Aditya-566/Leetcode/tree/master/0485-max-consecutive-ones) |
 | [0503-next-greater-element-ii](https://github.com/Aditya-566/Leetcode/tree/master/0503-next-greater-element-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Aditya-566/Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Aditya-566/Leetcode/tree/master/0268-missing-number) |
 | [0278-first-bad-version](https://github.com/Aditya-566/Leetcode/tree/master/0278-first-bad-version) |
 | [0374-guess-number-higher-or-lower](https://github.com/Aditya-566/Leetcode/tree/master/0374-guess-number-higher-or-lower) |
+| [0475-heaters](https://github.com/Aditya-566/Leetcode/tree/master/0475-heaters) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Aditya-566/Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/Aditya-566/Leetcode/tree/master/0704-binary-search) |
 | [1004-max-consecutive-ones-iii](https://github.com/Aditya-566/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
@@ -160,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Aditya-566/Leetcode/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/Aditya-566/Leetcode/tree/master/0389-find-the-difference) |
 | [0414-third-maximum-number](https://github.com/Aditya-566/Leetcode/tree/master/0414-third-maximum-number) |
+| [0475-heaters](https://github.com/Aditya-566/Leetcode/tree/master/0475-heaters) |
 | [0561-array-partition](https://github.com/Aditya-566/Leetcode/tree/master/0561-array-partition) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Aditya-566/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/Aditya-566/Leetcode/tree/master/0747-largest-number-at-least-twice-of-others) |
@@ -193,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/Aditya-566/Leetcode/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/Aditya-566/Leetcode/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Aditya-566/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
+| [0475-heaters](https://github.com/Aditya-566/Leetcode/tree/master/0475-heaters) |
 | [0680-valid-palindrome-ii](https://github.com/Aditya-566/Leetcode/tree/master/0680-valid-palindrome-ii) |
 | [0844-backspace-string-compare](https://github.com/Aditya-566/Leetcode/tree/master/0844-backspace-string-compare) |
 | [0876-middle-of-the-linked-list](https://github.com/Aditya-566/Leetcode/tree/master/0876-middle-of-the-linked-list) |
