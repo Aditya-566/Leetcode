@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Aditya-566/Leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Aditya-566/Leetcode/tree/master/0283-move-zeroes) |
 | [0414-third-maximum-number](https://github.com/Aditya-566/Leetcode/tree/master/0414-third-maximum-number) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Aditya-566/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0475-heaters](https://github.com/Aditya-566/Leetcode/tree/master/0475-heaters) |
 | [0485-max-consecutive-ones](https://github.com/Aditya-566/Leetcode/tree/master/0485-max-consecutive-ones) |
 | [0503-next-greater-element-ii](https://github.com/Aditya-566/Leetcode/tree/master/0503-next-greater-element-ii) |
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/Aditya-566/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/Aditya-566/Leetcode/tree/master/0389-find-the-difference) |
 | [0409-longest-palindrome](https://github.com/Aditya-566/Leetcode/tree/master/0409-longest-palindrome) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Aditya-566/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Aditya-566/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/Aditya-566/Leetcode/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [2615-sum-of-distances](https://github.com/Aditya-566/Leetcode/tree/master/2615-sum-of-distances) |
