@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Aditya-566/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0475-heaters](https://github.com/Aditya-566/Leetcode/tree/master/0475-heaters) |
 | [0485-max-consecutive-ones](https://github.com/Aditya-566/Leetcode/tree/master/0485-max-consecutive-ones) |
+| [0496-next-greater-element-i](https://github.com/Aditya-566/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Aditya-566/Leetcode/tree/master/0503-next-greater-element-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Aditya-566/Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Aditya-566/Leetcode/tree/master/0560-subarray-sum-equals-k) |
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/Aditya-566/Leetcode/tree/master/0389-find-the-difference) |
 | [0409-longest-palindrome](https://github.com/Aditya-566/Leetcode/tree/master/0409-longest-palindrome) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Aditya-566/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0496-next-greater-element-i](https://github.com/Aditya-566/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/Aditya-566/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/Aditya-566/Leetcode/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [2615-sum-of-distances](https://github.com/Aditya-566/Leetcode/tree/master/2615-sum-of-distances) |
@@ -277,6 +279,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/Aditya-566/Leetcode/tree/master/0020-valid-parentheses) |
 | [0094-binary-tree-inorder-traversal](https://github.com/Aditya-566/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
+| [0496-next-greater-element-i](https://github.com/Aditya-566/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Aditya-566/Leetcode/tree/master/0503-next-greater-element-ii) |
 | [0844-backspace-string-compare](https://github.com/Aditya-566/Leetcode/tree/master/0844-backspace-string-compare) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Aditya-566/Leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -284,6 +287,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0496-next-greater-element-i](https://github.com/Aditya-566/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Aditya-566/Leetcode/tree/master/0503-next-greater-element-ii) |
 ## Linked List
 |  |
